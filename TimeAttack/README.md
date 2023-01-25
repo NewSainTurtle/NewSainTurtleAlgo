@@ -1,4 +1,9 @@
-# NewSainTurtleAlgo📝
+# NewSainTurtleAlgo TimeAttack⏰
+```
+ 회차 폴더 > 문제_이름(bj1541_애기상빈_김성수).md
+
+ BEAKJOON(bj) / SWExpertAcademy(sw) / Programmers(pg)
+```
 
 #### Problem List
 
