@@ -1,7 +1,7 @@
 # NewSainTurtleAlgo📝
 
 ```
- 회차 폴더 > 문제_이름(bj1541애기상빈_김성수).md
+ 회차 폴더 > 문제_이름(bj1541_애기상빈_김성수).md
 
  BEAKJOON(bj) / SWExpertAcademy(sw) / Programmers(pg)
 ```
