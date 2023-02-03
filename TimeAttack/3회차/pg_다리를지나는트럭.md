@@ -1,4 +1,4 @@
-## pg_다리를지나는트럭.md
+## pg_다리를지나는트럭_김성수.md
 
 https://school.programmers.co.kr/learn/courses/30/lessons/42583
 
