@@ -14,7 +14,7 @@
 | 2회차 | [bj16939](https://www.acmicpc.net/problem/16939)| 2×2×2 큐브 |  | 🍀 |  | ⭐ | 🐣 |  |
 | 2회차 | [bj1799](https://www.acmicpc.net/problem/1799)| 비숍 |  | 🍀 |  |  |  |  |
 | 2회차 | [bj17143](https://www.acmicpc.net/problem/17143)| 낚시왕 |  | 🍀 |  | ⭐ |  |  |
-| 2회차 | [bj13023](https://www.acmicpc.net/problem/13023)| ABCDE |  | 🍀 |  |  | 🐣 |  |
+| 2회차 | [bj13023](https://www.acmicpc.net/problem/13023)| ABCDE |  | 🍀 | 🦾 |  | 🐣 |  |
 | 2회차 | [bj15661](https://www.acmicpc.net/problem/15661)| 링크와 스타트 |  | 🍀 |  | ⭐  | 🐣 |  |
 | 1회차 | [bj2503](https://www.acmicpc.net/problem/2503)| 숫자 야구 | 🎣 | 🍀 |  | ⚾ | 🐣 |  |
 | 1회차 | [bj19238](https://www.acmicpc.net/problem/19238)| 스타트 택시 |  | 🍀 | 🦾 |🚕  |  |  |
