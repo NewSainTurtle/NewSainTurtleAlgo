@@ -11,7 +11,7 @@
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
 | 2회차 | [bj1283](https://www.acmicpc.net/problem/1283)| 단축키 지정 |  | 🍀 |  | ⭐ | 🔺 |  |
-| 2회차 | [bj16939](https://www.acmicpc.net/problem/16939)| 2×2×2 큐브 |  | 🍀 |  | ⭐ | 🔺 |  |
+| 2회차 | [bj16939](https://www.acmicpc.net/problem/16939)| 2×2×2 큐브 |  | 🍀 |  | ⭐ | 🐣 |  |
 | 2회차 | [bj1799](https://www.acmicpc.net/problem/1799)| 비숍 |  | 🍀 |  |  |  |  |
 | 2회차 | [bj17143](https://www.acmicpc.net/problem/17143)| 낚시왕 |  | 🍀 |  | ⭐ |  |  |
 | 2회차 | [bj13023](https://www.acmicpc.net/problem/13023)| ABCDE |  | 🍀 |  |  | 🐣 |  |
