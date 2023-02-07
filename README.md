@@ -22,7 +22,7 @@
 | 2회차 | [bj17143](https://www.acmicpc.net/problem/17143)| 낚시왕 | 🎣 | 🍀 |  | ⭐ |  |  |
 | 2회차 | [bj13023](https://www.acmicpc.net/problem/13023)| ABCDE | 🎣 | 🍀 | 🦾 |  | 🐣 | 🐾 |
 | 2회차 | [bj15661](https://www.acmicpc.net/problem/15661)| 링크와 스타트 | 🎣 | 🍀 |  | ⭐  | 🐣 | 🐾 |
-| 1회차 | [bj2503](https://www.acmicpc.net/problem/2503)| 숫자 야구 | 🎣 | 🍀 |  | ⚾ | 🐣 |  |
+| 1회차 | [bj2503](https://www.acmicpc.net/problem/2503)| 숫자 야구 | 🎣 | 🍀 |  | ⚾ | 🐣 | 🐾 |
 | 1회차 | [bj19238](https://www.acmicpc.net/problem/19238)| 스타트 택시 |  | 🍀 | 🦾 |🚕  |  |  |
 | 1회차 | [bj2240](https://www.acmicpc.net/problem/2240)| 자두나무 |  | 🍀 |  |  |  |   |
 | 1회차 | [bj1759](https://www.acmicpc.net/problem/1759)| 암호 만들기 | 🎣 | 🍀 |  |❓  | 🐣 | 🐾 |
