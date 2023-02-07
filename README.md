@@ -13,7 +13,7 @@
 | 3회차 | [bj16943](https://www.acmicpc.net/problem/16943)| 숫자재배치 |  |  |  |  |  |  |
 | 3회차 | [bj2140](https://www.acmicpc.net/problem/2140)| 지뢰찾기 |  |  |  |  |  |  |
 | 3회차 | [김강호]| 강호문제 |  |  |  |  |  |  |
-| 3회차 | [bj16987](https://www.acmicpc.net/problem/16987)| 계란으로계란치기 |  |  |  | ⭐ |  |  |
+| 3회차 | [bj16987](https://www.acmicpc.net/problem/16987)| 계란으로계란치기 |  |  |  | ⭐ | 🐣 |  |
 | 3회차 | [bj1012](https://www.acmicpc.net/problem/1012)| 유기농배추 |  |  |  |  |  |  |
 | 3회차 | [bj2615](https://www.acmicpc.net/problem/2615)| 오목 |  |  |  |  |  |  |
 | 2회차 | [bj1283](https://www.acmicpc.net/problem/1283)| 단축키 지정 | 🎣 | 🍀 |  | ⭐ | 🔺 |  |
