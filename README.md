@@ -10,11 +10,11 @@
 
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
-| 3회차 | [bj16943](https://www.acmicpc.net/problem/16943)| 숫자재배치 |  |  |  |  |  | 🐾 |
+| 3회차 | [bj16943](https://www.acmicpc.net/problem/16943)| 숫자재배치 |  |  |  |⭐|  | 🐾 |
 | 3회차 | [bj2140](https://www.acmicpc.net/problem/2140)| 지뢰찾기 |  |  |  |  |  |  |
-| 3회차 | [bj12852](https://www.acmicpc.net/problem/12852) | 1로 만들기 2 |  |  |  |  |  |  |
+| 3회차 | [bj12852](https://www.acmicpc.net/problem/12852) | 1로 만들기 2 |  |  |  |⭐|  |  |
 | 3회차 | [bj16987](https://www.acmicpc.net/problem/16987)| 계란으로계란치기 |  |  |  | ⭐ |  |  |
-| 3회차 | [bj1012](https://www.acmicpc.net/problem/1012)| 유기농배추 |  |  |  |  | 🐣 |  |
+| 3회차 | [bj1012](https://www.acmicpc.net/problem/1012)| 유기농배추 |  |  |  | ⭐ | 🐣 |  |
 | 3회차 | [bj2615](https://www.acmicpc.net/problem/2615)| 오목 |  |  |  |  | 🐣 |  |
 | 2회차 | [bj1283](https://www.acmicpc.net/problem/1283)| 단축키 지정 | 🎣 | 🍀 |  | ⭐ | 🔺 |  |
 | 2회차 | [bj16939](https://www.acmicpc.net/problem/16939)| 2×2×2 큐브 |  | 🍀 |  | ⭐ | 🐣 |  |
