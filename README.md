@@ -15,7 +15,7 @@
 | 4회차 | [bj10610](https://www.acmicpc.net/problem/10610)| 30 |  |  |  |  |  |  |
 | 4회차 | [bj2922](https://www.acmicpc.net/problem/2922)| 즐거운 단어 |  |  |  |  |  |  |
 | 4회차 | [bj14503](https://www.acmicpc.net/problem/14503)| 로봇 청소기 |  |  |  |  |  |  |
-| 4회차 | [bj14940](https://www.acmicpc.net/problem/14940)| 쉬운 최단거리 |  |  |  |  |  |  |
+| 4회차 | [bj14940](https://www.acmicpc.net/problem/14940)| 쉬운 최단거리 |  |  |  |  | 🐣 |  |
 | 3회차 | [bj16943](https://www.acmicpc.net/problem/16943)| 숫자재배치 |  | 🍀 |  |⭐| 🐣 | 🐾 |
 | 3회차 | [bj2140](https://www.acmicpc.net/problem/2140)| 지뢰찾기 |  | 🍀 |  | ⭐ |  | 🐾 |
 | 3회차 | [bj12852](https://www.acmicpc.net/problem/12852) | 1로 만들기 2 |  | 🍀 |  |⭐| 🐣 |  |
