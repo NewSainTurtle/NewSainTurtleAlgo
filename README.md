@@ -24,7 +24,7 @@
 | 3회차 | [bj2615](https://www.acmicpc.net/problem/2615)| 오목 |  | 🍀 |  |  | 🐣 | 🐾 |
 | 2회차 | [bj1283](https://www.acmicpc.net/problem/1283)| 단축키 지정 | 🎣 | 🍀 |  | ⭐ | 🔺 |  |
 | 2회차 | [bj16939](https://www.acmicpc.net/problem/16939)| 2×2×2 큐브 |  | 🍀 |  | ⭐ | 🐣 |  |
-| 2회차 | [bj1799](https://www.acmicpc.net/problem/1799)| 비숍 | 🎣 | 🍀 |  |  |  |  |
+| 2회차 | [bj1799](https://www.acmicpc.net/problem/1799)| 비숍 | 🎣 | 🍀 | 🦾 |  |  |  |
 | 2회차 | [bj17143](https://www.acmicpc.net/problem/17143)| 낚시왕 | 🎣 | 🍀 |  | ⭐ |  |  |
 | 2회차 | [bj13023](https://www.acmicpc.net/problem/13023)| ABCDE | 🎣 | 🍀 | 🦾 |  | 🐣 | 🐾 |
 | 2회차 | [bj15661](https://www.acmicpc.net/problem/15661)| 링크와 스타트 | 🎣 | 🍀 |  | ⭐  | 🐣 | 🐾 |
