@@ -12,7 +12,7 @@
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
 | 4회차 | [bj9207](https://www.acmicpc.net/problem/9207)| 페그 솔리테어 |  | 🍀 |  |  |  |  |
 | 4회차 | [bj20129](https://www.acmicpc.net/problem/20129)| 뒤집힌 계산기 |  | 🍀 |  |  |  |  |
-| 4회차 | [bj10610](https://www.acmicpc.net/problem/10610)| 30 |  | 🍀 |  |  | 🐣 | 🐾 |
+| 4회차 | [bj10610](https://www.acmicpc.net/problem/10610)| 30 |  | 🍀 | 🦾 |  | 🐣 | 🐾 |
 | 4회차 | [bj2922](https://www.acmicpc.net/problem/2922)| 즐거운 단어 |  | 🍀 |  |  |  |  |
 | 4회차 | [bj14503](https://www.acmicpc.net/problem/14503)| 로봇 청소기 |  | 🍀 |  |  | 🐣 |  |
 | 4회차 | [bj14940](https://www.acmicpc.net/problem/14940)| 쉬운 최단거리 |  | 🍀 |  |  | 🐣 | 🐾 |
