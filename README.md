@@ -37,7 +37,7 @@
 | 1회차 | [bj2503](https://www.acmicpc.net/problem/2503)| 숫자 야구 | 🎣 | 🍀 |  | ⚾ | 🐣 | 🐾 |
 | 1회차 | [bj19238](https://www.acmicpc.net/problem/19238)| 스타트 택시 |  | 🍀 | 🦾 |🚕  |  |  |
 | 1회차 | [bj2240](https://www.acmicpc.net/problem/2240)| 자두나무 |  | 🍀 |  |  |  |   |
-| 1회차 | [bj1759](https://www.acmicpc.net/problem/1759)| 암호 만들기 | 🎣 | 🍀 |  |❓  | 🐣 | 🐾 |
+| 1회차 | [bj1759](https://www.acmicpc.net/problem/1759)| 암호 만들기 | 🎣 | 🍀 | 🦾 |❓  | 🐣 | 🐾 |
 | 1회차 | [bj2023](https://www.acmicpc.net/problem/2023)| 신기한 소수 | 🎣 | 🍀 |  | ✨ | 🐣 |  |
 | 1회차 | [bj17140](https://www.acmicpc.net/problem/17140)| 이차원 배열과 연산 | 🎣 | 🍀 |  |🔢  |  | 🐾 |
 
