@@ -10,6 +10,12 @@
 
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
+| 5회차 | [bj20208](https://www.acmicpc.net/problem/20208)| 진우의 민트초코우유 |  |  |  |  |  |  |
+| 5회차 | [bj19236](https://www.acmicpc.net/problem/19236)| 청소년 상어 |  | 🍀 |  |  |  |  |
+| 5회차 | [bj9935](https://www.acmicpc.net/problem/9935)| 문자열 폭발 |  |  |  |  |  |  |
+| 5회차 | [bj17135](https://www.acmicpc.net/problem/17135)| 캐슬디펜스 |  |  |  |  |  |  |
+| 5회차 | [bj2805](https://www.acmicpc.net/problem/2805)| 나무 자르기 |  |  |  |  |  |  |
+| 5회차 | [bj15683](https://www.acmicpc.net/problem/15683)| 감시 |  |  |  |  |  |  |
 | 4회차 | [bj9207](https://www.acmicpc.net/problem/9207)| 페그 솔리테어 | 🎣 | 🍀 |  |⭐  |  |  |
 | 4회차 | [bj20129](https://www.acmicpc.net/problem/20129)| 뒤집힌 계산기 |  | 🍀 |  |  |  |  |
 | 4회차 | [bj10610](https://www.acmicpc.net/problem/10610)| 30 | 🎣 | 🍀 | 🦾 |⭐  | 🐣 | 🐾 |
