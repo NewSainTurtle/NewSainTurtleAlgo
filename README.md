@@ -14,7 +14,7 @@
 | 6회차 | [bj2661](https://www.acmicpc.net/problem/2661)| 좋은수열 |  | 🍀 |  |  |  |  |
 | 6회차 | [bj4358](https://www.acmicpc.net/problem/4358)| 생태학 |  | 🍀 | 🦾 |  |  |  |
 | 6회차 | [bj15684](https://www.acmicpc.net/problem/15684)| 사다리 조작 |  | 🍀 |  |  |  |  |
-| 6회차 | [bj16234](https://www.acmicpc.net/problem/16234)| 인구 이동 |  |  |  |  | 🐣 |  |
+| 6회차 | [bj16234](https://www.acmicpc.net/problem/16234)| 인구 이동 |  | 🍀 |  |  | 🐣 |  |
 | 6회차 | [bj15787](https://www.acmicpc.net/problem/15787)| 기차가 어둠을 헤치고 은하수를 |  | 🍀 |  |  |  |  |
 | 5회차 | [bj20208](https://www.acmicpc.net/problem/20208)| 진우의 민트초코우유 |  | 🍀 |  | ⭐ |  |  |
 | 5회차 | [bj19236](https://www.acmicpc.net/problem/19236)| 청소년 상어 |  | 🍀 |  |  | 🐣 |  |
