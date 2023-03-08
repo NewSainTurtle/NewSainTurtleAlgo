@@ -11,7 +11,7 @@
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
 | 7회차 | [bj18405](https://www.acmicpc.net/problem/18405)| 경쟁적 전염 |  |  |  |  |  |  |
-| 7회차 | [bj11725](https://www.acmicpc.net/problem/11725)| 트리의 부모 찾기 |  |  |  |  |  |  |
+| 7회차 | [bj11725](https://www.acmicpc.net/problem/11725)| 트리의 부모 찾기 |  | 🍀 |  |  |  |  |
 | 7회차 | [bj16120](https://www.acmicpc.net/problem/16120)| PPAP |  |  |  |  |  |  |
 | 7회차 | [bj15685](https://www.acmicpc.net/problem/15685)| 드래곤 커브 |  |  |  |  |  |  |
 | 7회차 | [bj2589](https://www.acmicpc.net/problem/2589)| 보물섬 |  |  |  |  |  |  |
