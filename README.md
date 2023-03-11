@@ -14,7 +14,7 @@
 | 7회차 | [bj11725](https://www.acmicpc.net/problem/11725)| 트리의 부모 찾기 |  | 🍀 |  |  |  |  |
 | 7회차 | [bj16120](https://www.acmicpc.net/problem/16120)| PPAP |  | 🍀 |  |  |  |  |
 | 7회차 | [bj15685](https://www.acmicpc.net/problem/15685)| 드래곤 커브 |  |  |  |  |  |  |
-| 7회차 | [bj2589](https://www.acmicpc.net/problem/2589)| 보물섬 |  |  |  |  |  |  |
+| 7회차 | [bj2589](https://www.acmicpc.net/problem/2589)| 보물섬 |  | 🍀 |  |  |  |  |
 | 7회차 | [bj17136](https://www.acmicpc.net/problem/17136)| 색종이 붙이기 |  |  |  |  |  |  |
 | 6회차 | [bj3055](https://www.acmicpc.net/problem/3055)| 탈출 | 🎣 | 🍀 |  | ⭐ | 🐣 |  |
 | 6회차 | [bj2661](https://www.acmicpc.net/problem/2661)| 좋은수열 | 🎣 | 🍀 |  |⭐  |  |  |
