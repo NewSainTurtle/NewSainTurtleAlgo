@@ -10,12 +10,12 @@
 
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
-| 8회차 | [bj1527](https://www.acmicpc.net/problem/1527) | 금민수의 개수 |  |  |  |⭐  | 🐣 |  |
-| 8회차 | [bj19237](https://www.acmicpc.net/problem/19237) | 어른 상어 |  |  |  |⭐  |  |  |
-| 8회차 | [bj20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 |  |  |  |  |  |  |
-| 8회차 | [bj17142](https://www.acmicpc.net/problem/17142) | 연구소3 |  |  |  |⭐  |  |  |
-| 8회차 | [bj14500](https://www.acmicpc.net/problem/14500) | 테트로미노 |  |  |  | ⭐ | 🐣 |  |
-| 8회차 | [bj20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 |  |  |  | ⭐ |  |  |
+| 8회차 | [bj1527](https://www.acmicpc.net/problem/1527) | 금민수의 개수 |  | 🍀 |  |⭐  | 🐣 |  |
+| 8회차 | [bj19237](https://www.acmicpc.net/problem/19237) | 어른 상어 |  | 🍀 |  |⭐  |  |  |
+| 8회차 | [bj20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 |  | 🍀 |  |  |  |  |
+| 8회차 | [bj17142](https://www.acmicpc.net/problem/17142) | 연구소3 |  | ☘️ |  |⭐  |  |  |
+| 8회차 | [bj14500](https://www.acmicpc.net/problem/14500) | 테트로미노 |  | ☘️ |  | ⭐ | 🐣 |  |
+| 8회차 | [bj20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 |  | ☘️ |  | ⭐ |  |  |
 | 7회차 | [bj18405](https://www.acmicpc.net/problem/18405)| 경쟁적 전염 |  |  |  |⭐  |  |  |
 | 7회차 | [bj11725](https://www.acmicpc.net/problem/11725)| 트리의 부모 찾기 |  | 🍀 |  |  |  |  |
 | 7회차 | [bj16120](https://www.acmicpc.net/problem/16120)| PPAP |  | 🍀 |  |⭐  |  |  |
@@ -33,7 +33,7 @@
 | 5회차 | [bj9935](https://www.acmicpc.net/problem/9935)| 문자열 폭발 |  | 🍀 |  | ⭐ |  |  |
 | 5회차 | [bj17135](https://www.acmicpc.net/problem/17135)| 캐슬디펜스 |  | 🍀 |  |⭐  | 🐣 |  |
 | 5회차 | [bj2805](https://www.acmicpc.net/problem/2805)| 나무 자르기 |  | 🍀 |  | ⭐ | 🐣 |  |
-| 5회차 | [bj15683](https://www.acmicpc.net/problem/15683)| 감시 |  | 🍀 |  | ⭐ |  |  |
+| 5회차 | [bj15683](https://www.acmicpc.net/problem/15683)| 감시 |  | ☘️ |  | ⭐ |  |  |
 | 4회차 | [bj9207](https://www.acmicpc.net/problem/9207)| 페그 솔리테어 | 🎣 | 🍀 |  |⭐  |  |  |
 | 4회차 | [bj20129](https://www.acmicpc.net/problem/20129)| 뒤집힌 계산기 |  | 🍀 |  |  |  |  |
 | 4회차 | [bj10610](https://www.acmicpc.net/problem/10610)| 30 | 🎣 | 🍀 | 🦾 |⭐  | 🐣 | 🐾 |
