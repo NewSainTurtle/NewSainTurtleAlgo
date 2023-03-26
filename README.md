@@ -14,7 +14,7 @@
 | 9회차 | [bj23291](https://www.acmicpc.net/problem/23291) | 어항 정리 |  | 🍀 |  |  |  |  |
 | 9회차 | [bj14502](https://www.acmicpc.net/problem/14502) | 연구소 |  |  |  |  |  |  |
 | 9회차 | [bj14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 |  |  |  |  |  |  |
-| 9회차 | [bj10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 |  | 🍀 |  |  |  |  |
+| 9회차 | [bj10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 |  | 🍀 |  |  | 🐣 |  |
 | 9회차 | [bj4179](https://www.acmicpc.net/problem/4179) | 불! |  | 🍀 |  |  |  |  |
 | 8회차 | [bj1527](https://www.acmicpc.net/problem/1527) | 금민수의 개수 | 🎣 | 🍀 |  |⭐  | 🐣 |  |
 | 8회차 | [bj19237](https://www.acmicpc.net/problem/19237) | 어른 상어 |  | 🍀 |  |⭐  |  |  |
