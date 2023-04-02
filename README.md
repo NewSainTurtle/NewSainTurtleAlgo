@@ -14,7 +14,7 @@
 | 10회차 | [bj16637](https://www.acmicpc.net/problem/16637) | 괄호 추가하기 |  |  |  |  |  |  |
 | 10회차 | [bj1063](https://www.acmicpc.net/problem/1063) | 킹 |  |  |  |  |  |  |
 | 10회차 | [bj17281](https://www.acmicpc.net/problem/17281) | ⚾ |  |  |  |  |  |  |
-| 10회차 | [bj14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 |  |  |  |  |  |  |
+| 10회차 | [bj14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 |  |  |  |  | 🐣 |  |
 | 10회차 | [bj20437](https://www.acmicpc.net/problem/20437) | 문자열 게임 2 |  |  |  |  |  | 🐾 |
 | 9회차 | [bj6987](https://www.acmicpc.net/problem/6987) | 월드컵 | 🎣 | 🍀 |  |  |  |  |
 | 9회차 | [bj23291](https://www.acmicpc.net/problem/23291) | 어항 정리 |  | 🍀 |  |  |  |  |
