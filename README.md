@@ -13,13 +13,13 @@
 | 10회차 | [bj2212](https://www.acmicpc.net/problem/2212) | 센서 | 🎣 | 🍀 |  |⭐  |  |  |
 | 10회차 | [bj16637](https://www.acmicpc.net/problem/16637) | 괄호 추가하기 |  | 🍀 |  | ⭐ |  |  |
 | 10회차 | [bj1063](https://www.acmicpc.net/problem/1063) | 킹 | 🎣 | 🍀 |  | ⭐ |  |  |
-| 10회차 | [bj17281](https://www.acmicpc.net/problem/17281) | ⚾ |  |  |  |  |  |  |
-| 10회차 | [bj14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 |  |  |  |⭐  | 🐣 |  |
+| 10회차 | [bj17281](https://www.acmicpc.net/problem/17281) | ⚾ |  | ☘️ |  |  |  |  |
+| 10회차 | [bj14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 |  | ☘️ |  |⭐  | 🐣 |  |
 | 10회차 | [bj20437](https://www.acmicpc.net/problem/20437) | 문자열 게임 2 | 🎣 | 🍀 |  |⭐  |  | 🐾 |
 | 9회차 | [bj6987](https://www.acmicpc.net/problem/6987) | 월드컵 | 🎣 | 🍀 |  |  |  |  |
 | 9회차 | [bj23291](https://www.acmicpc.net/problem/23291) | 어항 정리 |  | 🍀 |  |  |  |  |
-| 9회차 | [bj14502](https://www.acmicpc.net/problem/14502) | 연구소 |  |  |  |⭐  |  |  |
-| 9회차 | [bj14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | 🎣 |  |  |⭐  |  |  |
+| 9회차 | [bj14502](https://www.acmicpc.net/problem/14502) | 연구소 |  | ☘️ |  |⭐  |  |  |
+| 9회차 | [bj14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | 🎣 | ☘️ |  |⭐  |  |  |
 | 9회차 | [bj10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 |  | 🍀 |  |  | 🐣 |  |
 | 9회차 | [bj4179](https://www.acmicpc.net/problem/4179) | 불! | 🎣 | 🍀 |  |⭐  |  |  |
 | 8회차 | [bj1527](https://www.acmicpc.net/problem/1527) | 금민수의 개수 | 🎣 | 🍀 |  |⭐  | 🐣 |  |
@@ -28,10 +28,10 @@
 | 8회차 | [bj17142](https://www.acmicpc.net/problem/17142) | 연구소3 |  | ☘️ |  |⭐  |  |  |
 | 8회차 | [bj14500](https://www.acmicpc.net/problem/14500) | 테트로미노 |  | ☘️ |  | ⭐ | 🐣 |  |
 | 8회차 | [bj20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 |  | ☘️ |  | ⭐ |  |  |
-| 7회차 | [bj18405](https://www.acmicpc.net/problem/18405)| 경쟁적 전염 |  |  |  |⭐  |  |  |
+| 7회차 | [bj18405](https://www.acmicpc.net/problem/18405)| 경쟁적 전염 |  | ☘️ |  |⭐  |  |  |
 | 7회차 | [bj11725](https://www.acmicpc.net/problem/11725)| 트리의 부모 찾기 |  | 🍀 |  |  |  |  |
 | 7회차 | [bj16120](https://www.acmicpc.net/problem/16120)| PPAP |  | 🍀 |  |⭐  |  |  |
-| 7회차 | [bj15685](https://www.acmicpc.net/problem/15685)| 드래곤 커브 |  |  |  | ⭐ |  |  |
+| 7회차 | [bj15685](https://www.acmicpc.net/problem/15685)| 드래곤 커브 |  | ☘️ |  | ⭐ |  |  |
 | 7회차 | [bj2589](https://www.acmicpc.net/problem/2589)| 보물섬 |  | 🍀 |  | ⭐ | 🐣 |  |
 | 7회차 | [bj17136](https://www.acmicpc.net/problem/17136)| 색종이 붙이기 |  | 🍀 |  |  |  |  |
 | 6회차 | [bj3055](https://www.acmicpc.net/problem/3055)| 탈출 | 🎣 | 🍀 |  | ⭐ | 🐣 |  |
