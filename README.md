@@ -10,11 +10,11 @@
 
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
-| 11회차 | [bj2251](https://www.acmicpc.net/problem/2251) | 물통 | 🎣 |  |  |  |  |  |
+| 11회차 | [bj2251](https://www.acmicpc.net/problem/2251) | 물통 | 🎣 |  |  |⭐  |  |  |
 | 11회차 | [bj17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 |  | 🍀 |  |  |  |  |
-| 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  |  |  |  |  |  |
-| 11회차 | [bj17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | 🎣 |  |  |  |  |  |
-| 11회차 | [bj2630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | 🎣 |  |  |  |  |  |
+| 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  |  |  |⭐  |  |  |
+| 11회차 | [bj17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | 🎣 |  |  |⭐  |  |  |
+| 11회차 | [bj2630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | 🎣 |  |  | ⭐ |  |  |
 | 11회차 | [bj11265](https://www.acmicpc.net/problem/11265) | 끝나지 않는 파티 |  |  |  |  |  |  |
 | 10회차 | [bj2212](https://www.acmicpc.net/problem/2212) | 센서 | 🎣 | 🍀 |  |⭐  |  |  |
 | 10회차 | [bj16637](https://www.acmicpc.net/problem/16637) | 괄호 추가하기 |  | 🍀 |  | ⭐ |  |  |
