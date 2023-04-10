@@ -12,7 +12,7 @@
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
 | 11회차 | [bj2251](https://www.acmicpc.net/problem/2251) | 물통 | 🎣 | 🍀 |  |⭐  |  |  |
 | 11회차 | [bj17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 |  | 🍀 |  |  |  |  |
-| 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  | ☘️ |  |⭐  |  |  |
+| 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  | 🍀 |  |⭐  |  |  |
 | 11회차 | [bj17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | 🎣 | ☘️ |  |⭐  |  |  |
 | 11회차 | [bj2630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | 🎣 | ☘️ |  | ⭐ |  |  |
 | 11회차 | [bj11265](https://www.acmicpc.net/problem/11265) | 끝나지 않는 파티 |  | ☘️ |  |  |  | 🐾 |
