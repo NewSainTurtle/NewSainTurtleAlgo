@@ -13,14 +13,14 @@
 | 12회차 | [bj10836](https://www.acmicpc.net/problem/10836) | 여왕벌 |  | ☘️ |  |  |  |  |
 | 12회차 | [bj1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 |  | 🍀 |  |  |  |  |
 | 12회차 | [bj11559](https://www.acmicpc.net/problem/11559) | Puyo Puyo |  | ☘️ |  |  |  |  |
-| 12회차 | [bj19942](https://www.acmicpc.net/problem/19942) | 다이어트 |  | 🍀 |  |  |  |  |
+| 12회차 | [bj19942](https://www.acmicpc.net/problem/19942) | 다이어트 |  | 🍀 |  |  | 🐣 |  |
 | 12회차 | [bj17609](https://www.acmicpc.net/problem/17609) | 회문 |  | ☘️ |  |  |  |  |
 | 12회차 | [bj2579](https://www.acmicpc.net/problem/2579) | 계단 오르기 |  | 🍀 |  |  |  |  |
 | 11회차 | [bj2251](https://www.acmicpc.net/problem/2251) | 물통 | 🎣 | 🍀 |  |⭐  |  |  |
 | 11회차 | [bj17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 |  | 🍀 |  |  |  |  |
 | 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  | 🍀 |  |⭐  |  |  |
 | 11회차 | [bj17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | 🎣 | ☘️ |  |⭐  |  |  |
-| 11회차 | [bj2630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | 🎣 | ☘️ |  | ⭐ |  |  |
+| 11회차 | [bj2630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | 🎣 | ☘️ |  | ⭐ | 🥚 |  |
 | 11회차 | [bj11265](https://www.acmicpc.net/problem/11265) | 끝나지 않는 파티 |  | ☘️ |  |  |  | 🐾 |
 | 10회차 | [bj2212](https://www.acmicpc.net/problem/2212) | 센서 | 🎣 | 🍀 |  |⭐  |  |  |
 | 10회차 | [bj16637](https://www.acmicpc.net/problem/16637) | 괄호 추가하기 |  | 🍀 |  | ⭐ |  |  |
