@@ -11,10 +11,10 @@
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
 | 12회차 | [bj10836](https://www.acmicpc.net/problem/10836) | 여왕벌 |  | ☘️ |  |  |  |  |
-| 12회차 | [bj1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 |  | 🍀 |  |  |  |  |
-| 12회차 | [bj11559](https://www.acmicpc.net/problem/11559) | Puyo Puyo |  | ☘️ |  |  |  |  |
-| 12회차 | [bj19942](https://www.acmicpc.net/problem/19942) | 다이어트 |  | 🍀 |  |  | 🐣 |  |
-| 12회차 | [bj17609](https://www.acmicpc.net/problem/17609) | 회문 |  | ☘️ |  |  |  |  |
+| 12회차 | [bj1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 |  | 🍀 |  |⭐  |  |  |
+| 12회차 | [bj11559](https://www.acmicpc.net/problem/11559) | Puyo Puyo |  | ☘️ |  |⭐  |  |  |
+| 12회차 | [bj19942](https://www.acmicpc.net/problem/19942) | 다이어트 |  | 🍀 |  |⭐  | 🐣 |  |
+| 12회차 | [bj17609](https://www.acmicpc.net/problem/17609) | 회문 |  | ☘️ |  | ⭐ |  |  |
 | 12회차 | [bj2579](https://www.acmicpc.net/problem/2579) | 계단 오르기 |  | 🍀 |  |  |  |  |
 | 11회차 | [bj2251](https://www.acmicpc.net/problem/2251) | 물통 | 🎣 | 🍀 |  |⭐  |  |  |
 | 11회차 | [bj17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 |  | 🍀 |  |  |  |  |
