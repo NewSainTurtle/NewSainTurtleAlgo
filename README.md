@@ -9,7 +9,13 @@
 #### Problem List
 
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
-| ---- | ------------------------------------------------ | ------------------| :--: | :--: | :--: | :--: | :--: | :--: |
+| :--: | :----------------------------------------------: | :----------------:| :--: | :--: | :--: | :--: | :--: | :--: |
+| 13회차 | [bj11967](https://www.acmicpc.net/problem/11967) | 불켜기 |  |  |  |  |  |  |
+| 13회차 | [bj7682](https://www.acmicpc.net/problem/7682) | 틱택토 |  |  |  |  |  |  |
+| 13회차 | [bj3085](https://www.acmicpc.net/problem/3085) | 사탕게임 |  |  |  |  | 🥚 |  |
+| 13회차 | [bj1062](https://www.acmicpc.net/problem/1062) | 가르침 |  |  |  |  |  |  |
+| 13회차 | [bj16918](https://www.acmicpc.net/problem/16918) | 봄버맨 |  |  |  |  | 🐣 |  |
+| 13회차 | [bj20164](https://www.acmicpc.net/problem/20164) | 홀수 홀릭 호석 |  |  |  |  |  |  |
 | 12회차 | [bj10836](https://www.acmicpc.net/problem/10836) | 여왕벌 |  | ☘️ |  |  |  |  |
 | 12회차 | [bj1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 |  | 🍀 |  |⭐  |  |  |
 | 12회차 | [bj11559](https://www.acmicpc.net/problem/11559) | Puyo Puyo |  | ☘️ |  |⭐  |  |  |
@@ -18,7 +24,7 @@
 | 12회차 | [bj2579](https://www.acmicpc.net/problem/2579) | 계단 오르기 |  | 🍀 | 🦾 |  |  |  |
 | 11회차 | [bj2251](https://www.acmicpc.net/problem/2251) | 물통 | 🎣 | 🍀 |  |⭐  |  |  |
 | 11회차 | [bj17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 |  | 🍀 |  |  |  |  |
-| 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  | 🍀 |  |⭐  |  |  |
+| 11회차 | [bj14501](https://www.acmicpc.net/problem/14501) | 퇴사 |  | 🍀 |  |⭐  | 🥚 |  |
 | 11회차 | [bj17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | 🎣 | ☘️ |  |⭐  |  |  |
 | 11회차 | [bj2630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | 🎣 | ☘️ |  | ⭐ | 🥚 |  |
 | 11회차 | [bj11265](https://www.acmicpc.net/problem/11265) | 끝나지 않는 파티 |  | ☘️ |  |  |  | 🐾 |
@@ -30,8 +36,8 @@
 | 10회차 | [bj20437](https://www.acmicpc.net/problem/20437) | 문자열 게임 2 | 🎣 | 🍀 |  |⭐  |  | 🐾 |
 | 9회차 | [bj6987](https://www.acmicpc.net/problem/6987) | 월드컵 | 🎣 | 🍀 |  |  |  |  |
 | 9회차 | [bj23291](https://www.acmicpc.net/problem/23291) | 어항 정리 |  | 🍀 |  |  |  |  |
-| 9회차 | [bj14502](https://www.acmicpc.net/problem/14502) | 연구소 |  | ☘️ |  |⭐  |  |  |
-| 9회차 | [bj14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | 🎣 | ☘️ |  |⭐  |  |  |
+| 9회차 | [bj14502](https://www.acmicpc.net/problem/14502) | 연구소 |  | ☘️ |  |⭐  | 🥚 |  |
+| 9회차 | [bj14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | 🎣 | ☘️ |  |⭐  | 🥚 |  |
 | 9회차 | [bj10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수 |  | 🍀 |  |  | 🐣 |  |
 | 9회차 | [bj4179](https://www.acmicpc.net/problem/4179) | 불! | 🎣 | 🍀 |  |⭐  |  |  |
 | 8회차 | [bj1527](https://www.acmicpc.net/problem/1527) | 금민수의 개수 | 🎣 | 🍀 |  |⭐  | 🐣 |  |
