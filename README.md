@@ -10,11 +10,11 @@
 
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | :--: | :----------------------------------------------: | :----------------:| :--: | :--: | :--: | :--: | :--: | :--: |
-| 13회차 | [bj11967](https://www.acmicpc.net/problem/11967) | 불켜기 |  |  |  |  |  |  |
-| 13회차 | [bj7682](https://www.acmicpc.net/problem/7682) | 틱택토 |  |  |  |  |  |  |
-| 13회차 | [bj3085](https://www.acmicpc.net/problem/3085) | 사탕게임 |  |  |  |  | 🥚 |  |
+| 13회차 | [bj11967](https://www.acmicpc.net/problem/11967) | 불켜기 |  | ☘️ |  |  |  |  |
+| 13회차 | [bj7682](https://www.acmicpc.net/problem/7682) | 틱택토 |  | 🍀 |  |  |  |  |
+| 13회차 | [bj3085](https://www.acmicpc.net/problem/3085) | 사탕게임 |  | ☘️ |  |  | 🥚 |  |
 | 13회차 | [bj1062](https://www.acmicpc.net/problem/1062) | 가르침 |  |  |  |  |  |  |
-| 13회차 | [bj16918](https://www.acmicpc.net/problem/16918) | 봄버맨 |  |  |  |  | 🐣 |  |
+| 13회차 | [bj16918](https://www.acmicpc.net/problem/16918) | 봄버맨 |  | ☘️ |  |  | 🐣 |  |
 | 13회차 | [bj20164](https://www.acmicpc.net/problem/20164) | 홀수 홀릭 호석 |  |  |  |  |  |  |
 | 12회차 | [bj10836](https://www.acmicpc.net/problem/10836) | 여왕벌 |  | ☘️ |  |  |  |  |
 | 12회차 | [bj1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 |  | 🍀 |  |⭐  |  |  |
