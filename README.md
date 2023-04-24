@@ -15,7 +15,7 @@
 | 13회차 | [bj3085](https://www.acmicpc.net/problem/3085) | 사탕게임 |  | ☘️ |  |  | 🥚 |  |
 | 13회차 | [bj1062](https://www.acmicpc.net/problem/1062) | 가르침 |  |  |  |  |  |  |
 | 13회차 | [bj16918](https://www.acmicpc.net/problem/16918) | 봄버맨 |  | ☘️ |  |  | 🐣 |  |
-| 13회차 | [bj20164](https://www.acmicpc.net/problem/20164) | 홀수 홀릭 호석 |  |  |  |  |  |  |
+| 13회차 | [bj20164](https://www.acmicpc.net/problem/20164) | 홀수 홀릭 호석 |  |  |  |  |  | 🐾 |
 | 12회차 | [bj10836](https://www.acmicpc.net/problem/10836) | 여왕벌 |  | ☘️ |  |  |  |  |
 | 12회차 | [bj1197](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 |  | 🍀 |  |⭐  |  |  |
 | 12회차 | [bj11559](https://www.acmicpc.net/problem/11559) | Puyo Puyo |  | ☘️ |  |⭐  |  |  |
