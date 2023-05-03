@@ -10,7 +10,7 @@
 
 | 회차   |                                    번호                                    | 문제                     | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | ------ | :------------------------------------------------------------------------: | ------------------------ | :--: | :--: | :--: | :--: | :--: | :--: |
-| 14회차 | [pg42890](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=java) | 후보키 |  |  | 🦾 |  | 🐣 |  |
+| 14회차 | [pg42890](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=java) | 후보키 |  | 🍀 | 🦾 |  | 🐣 |  |
 | 13회차 |               [bj13164](https://www.acmicpc.net/problem/13164)               | 행복 유치원          |    |  🍀  |      |      | 🥚 |      |
 | 12회차 | [pg64062](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 징검다리 건너기 |  | 🍀 |  |  | 🥚 | 🐾 |
 | 11회차 | [pg17683](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | 방금그곡                 |      |  🍀  |  🦾  |      |  🐣  | 🐾 |
