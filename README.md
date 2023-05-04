@@ -11,10 +11,10 @@
 | 회차 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | :--: | :----------------------------------------------: | ----------------| :--: | :--: | :--: | :--: | :--: | :--: |
 | 15회차 | [bj9466](https://www.acmicpc.net/problem/9466) | 텀 프로젝트 |  |  |  |  |  |  |
-| 15회차 | [bj13335](https://www.acmicpc.net/problem/13335) | 트럭 |  |  |  |  |  |  |
+| 15회차 | [bj13335](https://www.acmicpc.net/problem/13335) | 트럭 |  | 🍀 |  |  |  |  |
 | 15회차 | [bj27942](https://www.acmicpc.net/problem/27942) | :danceplant: |  |  |  |  |  |  |
 | 15회차 | [bj13549](https://www.acmicpc.net/problem/13549) | 숨바꼭질 3 |  |  |  |  |  |  |
-| 15회차 | [bj22866](https://www.acmicpc.net/problem/22866) | 탑 보기 |  |  |  |  |  |  |
+| 15회차 | [bj22866](https://www.acmicpc.net/problem/22866) | 탑 보기 |  | ☘️ |  |  |  |  |
 | 14회차 | [pg42890](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | 후보키 |  | 🍀 |  |  |  |  |
 | 14회차 | [bj6198](https://www.acmicpc.net/problem/6198) | 옥상 정원 꾸미기 |  | 🍀 |  |  |  |  |
 | 14회차 | [bj14719](https://www.acmicpc.net/problem/14719) | 빗물 |  | ☘️ |  |  |  |  |
