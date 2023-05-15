@@ -11,7 +11,7 @@
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | :----: | :----------------------------------------------------------: | :---------------------------- | :--: | :--: | :--: | :--: | :--: | :--: |
 | 16회차 |       [bj19583](https://www.acmicpc.net/problem/19583)       | 싸이버개강총회                |      |      |      |      |      |      |
-| 16회차 |        [bj1766](https://www.acmicpc.net/problem/1766)        | 문제집                        |      |      |      |      |      |      |
+| 16회차 |        [bj1766](https://www.acmicpc.net/problem/1766)        | 문제집                        |      |   🍀   |      |      |      |      |
 | 16회차 |       [bj26732](https://www.acmicpc.net/problem/26732)       | Agar.io                       |      |      |      |      |      |      |
 | 16회차 |       [bj17141](https://www.acmicpc.net/problem/17141)       | 연구소2                       |      |      |      |      |      |      |
 | 16회차 |       [bj16292](https://www.acmicpc.net/problem/16929)       | Two Dots                      |      |      |      |      |  🐣   |      |
