@@ -73,7 +73,7 @@
 | 6회차  |       [bj15787](https://www.acmicpc.net/problem/15787)       | 기차가 어둠을 헤치고 은하수를 |      |  🍀   |      |  ⭐   |      |  🐾   |
 | 5회차  |       [bj20208](https://www.acmicpc.net/problem/20208)       | 진우의 민트초코우유           |      |  🍀   |      |  ⭐   |      |      |
 | 5회차  |       [bj19236](https://www.acmicpc.net/problem/19236)       | 청소년 상어                   |      |  🍀   |      |      |  🐣   |      |
-| 5회차  |        [bj9935](https://www.acmicpc.net/problem/9935)        | 문자열 폭발                   |      |  🍀   |      |  ⭐   |      |      |
+| 5회차  |        [bj9935](https://www.acmicpc.net/problem/9935)        | 문자열 폭발                   |      |  🍀   |   🦾   |  ⭐   |      |      |
 | 5회차  |       [bj17135](https://www.acmicpc.net/problem/17135)       | 캐슬디펜스                    |      |  🍀   |      |  ⭐   |  🐣   |      |
 | 5회차  |        [bj2805](https://www.acmicpc.net/problem/2805)        | 나무 자르기                   |      |  🍀   |      |  ⭐   |  🐣   |      |
 | 5회차  |       [bj15683](https://www.acmicpc.net/problem/15683)       | 감시                          |      |  ☘️   |      |  ⭐   |      |      |
