@@ -10,9 +10,9 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
 | :----: | :----------------------------------------------------------: | :---------------------------- | :--: | :--: | :--: | :--: | :--: | :--: |
-| 17회차 |       [bj1461](https://www.acmicpc.net/problem/1461)       |        도서관         |      |      |      |      |      |      |
+| 17회차 |       [bj1461](https://www.acmicpc.net/problem/1461)       |        도서관         |      |   ☘️   |      |      |      |      |
 | 17회차 |       [bj2623](https://www.acmicpc.net/problem/2623)       |      음악프로그램           |      |   🍀   |      |      |      |      |
-| 17회차 |       [bj14425](https://www.acmicpc.net/problem/14425)       |    문자열 집합             |      |      |      |      |      |      |
+| 17회차 |       [bj14425](https://www.acmicpc.net/problem/14425)       |    문자열 집합             |      |    ☘️  |      |      |      |      |
 | 17회차 |       [bj5549](https://www.acmicpc.net/problem/5549)       |     행성 탐사            |      |   🍀   |      |      |      |      |
 | 17회차 |       [bj16928](https://www.acmicpc.net/problem/16928)       |      뱀과 사다리 게임           |      |   ☘️   |      |      |      |      |
 | 16회차 |       [bj19583](https://www.acmicpc.net/problem/19583)       | 싸이버개강총회                |      |      |      |      |      |      |
