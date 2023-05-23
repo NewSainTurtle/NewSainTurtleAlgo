@@ -12,9 +12,9 @@
 | :----: | :----------------------------------------------------------: | :---------------------------- | :--: | :--: | :--: | :--: | :--: | :--: |
 | 17회차 |       [bj1461](https://www.acmicpc.net/problem/1461)       |        도서관         |      |   ☘️   |      |      |      |      |
 | 17회차 |       [bj2623](https://www.acmicpc.net/problem/2623)       |      음악프로그램           |      |   🍀   |      |      |      |      |
-| 17회차 |       [bj14425](https://www.acmicpc.net/problem/14425)       |    문자열 집합             |      |    ☘️  |      |      |      |      |
+| 17회차 |       [bj14425](https://www.acmicpc.net/problem/14425)       |    문자열 집합             |      |    ☘️  |      |      | 🥚 |      |
 | 17회차 |       [bj5549](https://www.acmicpc.net/problem/5549)       |     행성 탐사            |      |   🍀   |      |      |      |      |
-| 17회차 |       [bj16928](https://www.acmicpc.net/problem/16928)       |      뱀과 사다리 게임           |      |   ☘️   |      |      |      |      |
+| 17회차 |       [bj16928](https://www.acmicpc.net/problem/16928)       |      뱀과 사다리 게임           |      |   ☘️   |      |      | 🐣 |      |
 | 16회차 |       [bj19583](https://www.acmicpc.net/problem/19583)       | 싸이버개강총회                |      |      |      |      |      |      |
 | 16회차 |        [bj1766](https://www.acmicpc.net/problem/1766)        | 문제집                        |      |   🍀   |      |      |      |      |
 | 16회차 |       [bj26732](https://www.acmicpc.net/problem/26732)       | Agar.io                       |      |      |      |      |      |      |
