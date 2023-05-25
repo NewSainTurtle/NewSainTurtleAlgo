@@ -14,7 +14,7 @@
 | 18회차 |       [bj1253](https://www.acmicpc.net/problem/1253)       |         좋다        |      |   ☘️   |      |      |      |      |
 | 18회차 |       [bj17092](https://www.acmicpc.net/problem/17092)       |        색칠 공부         |      |      |      |      |      |      |
 | 18회차 |       [bj1038](https://www.acmicpc.net/problem/1038)       |         감소하는 수        |      |      |      |      |      |      |
-| 18회차 |       [bj1107](https://www.acmicpc.net/problem/1107)       |          리모컨       |      |   ☘️   |      |      |      |      |
+| 18회차 |       [bj1107](https://www.acmicpc.net/problem/1107)       |          리모컨       |      |   ☘️   |      |      | 🐣 |      |
 | 17회차 |       [bj1461](https://www.acmicpc.net/problem/1461)       |        도서관         |      |   ☘️   |      |      |      |      |
 | 17회차 |       [bj2623](https://www.acmicpc.net/problem/2623)       |      음악프로그램           |      |   🍀   |      |      |      |      |
 | 17회차 |       [bj14425](https://www.acmicpc.net/problem/14425)       |    문자열 집합             |      |    ☘️  |      |      | 🥚 |      |
