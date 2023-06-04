@@ -22,9 +22,9 @@
 | 17회차 |       [bj16928](https://www.acmicpc.net/problem/16928)       |      뱀과 사다리 게임           |      |   ☘️   |      |      | 🐣 |      |
 | 16회차 |       [bj19583](https://www.acmicpc.net/problem/19583)       | 싸이버개강총회                |      |      |      |      |      |      |
 | 16회차 |        [bj1766](https://www.acmicpc.net/problem/1766)        | 문제집                        |      |   🍀   |      |      |      |      |
-| 16회차 |       [bj26732](https://www.acmicpc.net/problem/26732)       | Agar.io                       |      |      |      |      |      |      |
-| 16회차 |       [bj17141](https://www.acmicpc.net/problem/17141)       | 연구소2                       |      |      |      |      |      |      |
-| 16회차 |       [bj16292](https://www.acmicpc.net/problem/16929)       | Two Dots                      |      |      |      |      |  🐣   |      |
+| 16회차 |       [bj26732](https://www.acmicpc.net/problem/26732)       | Agar.io                       |      |  ☘️    |      |      |      |      |
+| 16회차 |       [bj17141](https://www.acmicpc.net/problem/17141)       | 연구소2                       |      |   ☘️   |      |      |      |      |
+| 16회차 |       [bj16292](https://www.acmicpc.net/problem/16929)       | Two Dots                      |      |   ☘️   |      |      |  🐣   |      |
 | 15회차 |        [bj9466](https://www.acmicpc.net/problem/9466)        | 텀 프로젝트                   |      |      |      |      |      |      |
 | 15회차 |       [bj13335](https://www.acmicpc.net/problem/13335)       | 트럭                          |      |  🍀   |      |      |      |      |
 | 15회차 |       [bj27942](https://www.acmicpc.net/problem/27942)       | :danceplant:                  |      |      |      |      |      |      |
