@@ -9,11 +9,16 @@
 #### Problem List
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 성수 | 연수 | 주연 |
-| :----: | :----------------------------------------------------------: | :---------------------------- | :--: | :--: | :--: | :--: | :--: | :--: |
+| :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 20회차 |       [bj16967](https://www.acmicpc.net/problem/16967)       |         배열 복원하기         |      |      |      |      |      |      |
+| 20회차 |        [bj7562](https://www.acmicpc.net/problem/7562)        |         나이트의 이동         |      |      |      |      |      |      |
+| 20회차 |        [bj6137](https://www.acmicpc.net/problem/6137)        |          문자열생성           |      |      |      |      |      |      |
+| 20회차 |        [bj2234](https://www.acmicpc.net/problem/2234)        |             성곽              |      |      |      |      |      |      |
+| 20회차 |        [bj9019](https://www.acmicpc.net/problem/9019)        |             DSLR              |      |      |      |      |  🐣   | |
 | 19회차 |       [bj20301](https://www.acmicpc.net/problem/20301)       |       반전 요세푸스          |      |   ☘️   |      |      |      |      |
 | 19회차 |       [bj17404](https://www.acmicpc.net/problem/17404)       |       RGB거리 2          |      |   🍀   |      |      |      |      |
 | 19회차 |       [bj16197](https://www.acmicpc.net/problem/16197)       |         두 동전        |      |   ☘️   |      |      |      |      |
-| 19회차 |       [bj7662](https://www.acmicpc.net/problem/7662)       |        이중 우선순위 큐         |      |   ☘️   |      |      |      |      |
+| 19회차 |       [bj7662](https://www.acmicpc.net/problem/7662)       |        이중 우선순위 큐         |      |   ☘️   |      |      | 🐣 |      |
 | 18회차 |       [bj1238](https://www.acmicpc.net/problem/1238)       |        파티         |      |   ☘️   |      |      |      |      |
 | 18회차 |       [bj1253](https://www.acmicpc.net/problem/1253)       |         좋다        |      |   🍀   |      |      |      |      |
 | 18회차 |       [bj17092](https://www.acmicpc.net/problem/17092)       |        색칠 공부         |      |   ☘️   |      |      |      |      |
