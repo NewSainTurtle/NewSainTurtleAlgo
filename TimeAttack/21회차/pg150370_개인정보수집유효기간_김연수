@@ -1,0 +1,77 @@
+### PG150370 개인정보 수집 유효기간
+
+[📁문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+
+---
+
+#### 문제풀이
+
+1. 오늘 날짜 기준 년,월,일을 숫자로 변환 저장
+2. 약관 종류에 따라 유효 기간을 map에 저장
+3. 파기할 계약 일자 여부를 저장할 boolean배열(`arr`)과 개수를 셀 `cnt` 선언
+4. 계약한 개인정보 수만큼 반복문을 돌린다.
+   - 계약한 일자를 년,월,일로 숫자 변환
+   - 계약 타입을 일자로 환산(`calc`)
+   - (현재-계약) 일자로 환산(`temp`)
+5. `temp`가 `calc`보다 크면 계약 일자를 넘긴 것이므로 `cnt`를 증가하고 그 때의 `arr`을 true로 저장한다.
+6. 정답을 저장할 `answer`배열 크기를 `cnt`만큼 선언하고, `arr`이 true일 때의 순서 값을 저장
+7. 정답 배열을 리턴 한다.
+
+---
+
+#### 전체 코드
+
+```java
+import java.io.*;
+import java.util.*;
+
+class Solution {
+    
+    public int[] solution(String today, String[] terms, String[] privacies) throws IOException {
+        // 오늘 날짜
+        String[] str = today.split("[.]");
+        int todayYear = Integer.parseInt(str[0]);
+        int todayMonth = Integer.parseInt(str[1]);
+        int todayDay = Integer.parseInt(str[2]);
+        
+        // 약관 종류
+        HashMap<String, String> map = new HashMap<>();
+        for (int i = 0; i < terms.length; i++) {
+            str = terms[i].split(" ");
+            map.put(str[0], str[1]);
+        }
+        
+        int cnt = 0;
+        boolean arr[] = new boolean[privacies.length];
+        for(int i=0;i<privacies.length;i++){
+            str = privacies[i].split(" ");
+            String[] date = str[0].split("[.]"); // 계약 일자
+            int dateYear = Integer.parseInt(date[0]); 
+            int dateMonth = Integer.parseInt(date[1]);
+            int dateDay = Integer.parseInt(date[2]);
+            String type = str[1]; // 계약 타입
+            
+            // 계약 타입별 일자 계산
+            int calc = Integer.parseInt(map.get(type))*28; // 계약 타입을 일자로 환산
+            int temp = (todayYear - dateYear)*28*12 
+                + (todayMonth - dateMonth)*28 + (todayDay - dateDay); // 현재-계약 일자로 환산
+            
+            if(temp >= calc) {
+                arr[i] = true;
+                cnt++;
+            }
+        }
+        
+        int k =0;
+        int[] answer = new int[cnt];
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]) {
+                answer[k] = i+1;
+                k++;
+            }
+        }
+
+        return answer;
+    }
+}
+```
