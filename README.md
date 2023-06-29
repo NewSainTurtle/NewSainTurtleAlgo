@@ -13,7 +13,7 @@
 | 21회차 |       [bj18430](https://www.acmicpc.net/problem/18430)       |      무기 공학          |      |      |      |      |      |      |
 | 21회차 |       [bj8981](https://www.acmicpc.net/problem/8981)       |         입력숫자       |      |   🍀    |      |      |      |      |
 | 21회차 |       [bj2757](https://www.acmicpc.net/problem/2757)       |          엑셀      |      |  🍀     |      |      |      |      |
-| 21회차 |       [bj5525](https://www.acmicpc.net/problem/5525)       |       IOIOI         |      |  ☘️    |      |      |      |      |
+| 21회차 |       [bj5525](https://www.acmicpc.net/problem/5525)       |       IOIOI         |      |  ☘️    |      |      | 🐣 |      |
 | 20회차 |       [bj16967](https://www.acmicpc.net/problem/16967)       |         배열 복원하기         |      |      |      |      |      |      |
 | 20회차 |        [bj7562](https://www.acmicpc.net/problem/7562)        |         나이트의 이동         |      |   🍀   |      |      |      |      |
 | 20회차 |        [bj6137](https://www.acmicpc.net/problem/6137)        |          문자열생성           |      |   ☘️   |      |      |      |      |
