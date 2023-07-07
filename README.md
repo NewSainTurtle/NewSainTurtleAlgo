@@ -16,7 +16,7 @@
 | 21회차 |       [bj5525](https://www.acmicpc.net/problem/5525)       |       IOIOI         |      |  ☘️    |      |      | 🐣 |      |
 | 20회차 |       [bj16967](https://www.acmicpc.net/problem/16967)       |         배열 복원하기         |      |      |      |      |      |      |
 | 20회차 |        [bj7562](https://www.acmicpc.net/problem/7562)        |         나이트의 이동         |      |   🍀   |      |      |      |      |
-| 20회차 |        [bj6137](https://www.acmicpc.net/problem/6137)        |          문자열생성           |      |   ☘️   |      |      |      |      |
+| 20회차 |        [bj6137](https://www.acmicpc.net/problem/6137)        |          문자열생성           |      |   ☘️   |   🦾   |      |      |      |
 | 20회차 |        [bj2234](https://www.acmicpc.net/problem/2234)        |             성곽              |      |      |      |      |      |      |
 | 20회차 |        [bj9019](https://www.acmicpc.net/problem/9019)        |             DSLR              |      |      |      |      |  🐣   | |
 | 19회차 |       [bj20301](https://www.acmicpc.net/problem/20301)       |       반전 요세푸스          |      |   ☘️   |      |      |      |      |
